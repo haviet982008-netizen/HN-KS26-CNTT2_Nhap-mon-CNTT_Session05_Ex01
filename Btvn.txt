@@ -1,0 +1,13 @@
+﻿P1:Phân tích
+
+
+Lỗi
+	Nguyên nhân
+	1.Có khoảng trắng
+	Do có khoảng trắng nên powershell ko hiểu là tên file mà là chuỗi kí tự
+	2.Tên file
+	File ko tồn tại nên ko thể tới được
+	
+
+P2:Hoàn thiện
+-Chuỗi câu lệnh để tối ưu powershell: mkdir Smart-Farm-Project/src/sensors/temperature
